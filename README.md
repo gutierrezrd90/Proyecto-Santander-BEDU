@@ -6,7 +6,7 @@ Pueden encontrar la Jupyter Notebook en los archivos del repositorio para mayor 
 
 El equipo 12 está conformado por:
 
--   Diego Sebastián Zacarías De La Rosa  | sebastianzacarias03@gmail.com
--   Daniel Gutiérrez Ruiz |  gutierrezrd90@gmail.com
--   Francisco Valentín Valerio López | trainwerck1979@gmail.com
--   Baltasar Vez De La Garza | baltasar.vez@gmail.com 
+-   [Diego Sebastián Zacarías De La Rosa](https://github.com/sebastianzacarias) | sebastianzacarias03@gmail.com
+-   [Daniel Gutiérrez Ruiz](https://github.com/gutierrezrd90) | gutierrezrd90@gmail.com
+-   [Francisco Valentín Valerio López](https://github.com/FranzValerio) | trainwerck1979@gmail.com
+-   [Baltasar Vez De La Garza](https://github.com/BaltaV) | baltasar.vez@gmail.com
